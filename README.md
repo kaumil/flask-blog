@@ -1,2 +1,2 @@
-# blog
-Blogging website using Flask and Sqlite
+# Flask Blogger
+Blogging website using Flask, SQLAlchemy and Elasticsearch
